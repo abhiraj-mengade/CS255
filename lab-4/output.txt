@@ -1,0 +1,39 @@
+Enter number of processes: 5
+
+Enter number of resources: 3
+
+Enter Claim Vector:3 3 2
+
+Enter Allocated Resource Table:
+0 0 1
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+
+Enter Maximum Claim Table:
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
+
+The Claim Vector is:    3       3       2
+The Allocated Resource Table:
+        0       0       1
+        2       0       0
+        3       0       2
+        2       1       1
+        0       0       2
+
+The Maximum Claim Table:
+        7       5       3
+        3       2       2
+        9       0       2
+        2       2       2
+        4       3       3
+
+Allocated resources:    7       1       6
+Available resources:    -4      2       -4
+
+The processes are in unsafe state.

@@ -35,6 +35,7 @@ void *producer(void *pno)
         sem_post(&full);
     }
 }
+
 void *consumer(void *cno)
 {   
     for(int i = 0; i < MaxItems; i++) {
