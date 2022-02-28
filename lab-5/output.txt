@@ -1,0 +1,53 @@
+//MFT.c
+Enter the total memory available (in Bytes) -- 4
+Enter the block size (in Bytes) -- 
+23
+
+Enter the number of processes -- 2
+Enter memory required for process 1 (in Bytes)-- 
+1
+Enter memory required for process 2 (in Bytes)-- 
+
+
+222
+
+
+No. of Blocks available in memory -- 0
+
+PROCESS MEMORY REQUIRED  ALLOCATED      INTERNAL FRAGMENTATION
+Memory is Full, Remaining Processes cannot be accomodated
+
+Total Internal Fragmentation is 0
+Total External Fragmentation is 4
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+
+
+
+
+
+
+
+
+//MVT.c
+
+Enter the total memory available (in Bytes)-- 1
+
+Enter memory required for process 1 (in Bytes) -- 1
+
+Memory is allocated for Process 1 
+Do you want to continue(y/n) -- 2
+
+
+Total Memory Available -- 1
+
+        PROCESS          MEMORY ALLOCATED 
+        1               1
+
+Total Memory Allocated is 1
+Total External Fragmentation is 0
+
+...Program finished with exit code 0
+Press ENTER to exit console.
